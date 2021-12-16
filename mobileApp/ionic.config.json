@@ -1,0 +1,7 @@
+{
+  "name": "healthy wealthy",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

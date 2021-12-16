@@ -1,0 +1,29 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1600" width="1024" height="1024">
+	<title>2654-ai</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+		.txt1 { font-size: 59px;fill: #000000;font-weight: 400;font-family: "Destroy", "Destroy" } 
+		.shp2 { fill: #ee2980 } 
+	</style>
+	<g id="35">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="shp0" d="M1600 1600L0 1600L0 0L1600 0L1600 1600Z" />
+				<text id=" HEALTHY wEALTHY   " style="transform: matrix(1,0,0,1,352,840)" >
+					<tspan x="0" y="54.28" class="txt1"> </tspan><tspan  y="54.28" class="txt1">HEALTHY</tspan><tspan  y="54.28" class="txt1"> </tspan><tspan  y="54.28" class="txt1">w</tspan><tspan  y="54.28" class="txt1">E</tspan><tspan  y="54.28" class="txt1">A</tspan><tspan  y="54.28" class="txt1">L</tspan><tspan  y="54.28" class="txt1">T</tspan><tspan  y="54.28" class="txt1">H</tspan><tspan  y="54.28" class="txt1">Y</tspan><tspan  y="54.28" class="txt1"> </tspan><tspan  y="54.28" class="txt1">
+</tspan>
+				</text>
+				<text id="Text layer 14" style="transform: matrix(1,0,0,1,730,1326)" >
+				</text>
+				<text id="" style="transform: matrix(1,0,0,1,428,154)" >
+				</text>
+			</g>
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="shp2" d="M1031.66 566.06L1031.66 600.31L957.43 600.31L918.87 673.83C915.33 680.27 908.88 683.87 901.75 683.13C894.61 683.13 888.91 678.14 886.74 671.72L857.47 586.76L831.8 648.84C828.21 655.29 821.08 659.57 813.21 659.57C806.07 658.14 799.63 652.44 798.2 644.56L773.95 494.66L744.68 723.12C743.95 731.68 736.81 738.12 728.25 738.12C728.25 738.12 728.02 738.12 727.56 738.12C719.69 738.12 712.56 731.68 710.4 723.81L676.85 547.48L656.14 591.04C653.29 596.75 646.89 600.31 640.45 600.31L568.34 600.31L568.34 566.06L629.03 566.06L668.29 484.64C671.88 477.51 679.01 473.96 686.15 474.66C693.97 476.09 699.72 481.1 701.15 488.92L724.71 613.18L754.67 381.15C755.4 372.58 762.54 366.88 771.1 366.88C779.66 366.14 786.79 372.58 788.96 381.15L821.77 581.05L843.21 531.08C846.07 524.63 852.46 519.64 859.64 520.35C867.47 520.35 873.16 525.37 876.02 531.77L906.72 622.45L931.7 575.35C934.56 569.62 940.31 566.06 946.71 566.06L1031.66 566.06Z" />
+			</g>
+		</g>
+	</g>
+	<g id="Layer 1">
+	</g>
+</svg>
